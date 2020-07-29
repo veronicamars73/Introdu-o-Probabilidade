@@ -10,6 +10,7 @@ favoraveis = [2,4,6]
 resultados_pares = 0
 
 # Definiremos nosso número de lançamentos, iremos usar 10000 no nosso exemplo
+# Usamos letra maiúscula para representar que estamos criando uma constante
 NUM_LANCAMENTOS = 10000
 
 # Agora escreveremos nosso iterador com nossos lançamentos

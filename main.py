@@ -19,3 +19,5 @@ for i in range (10000):
     if(x in favoraveis):
         resultados_pares += 1
 
+# Impressão do resultado obtido
+print("{0: d} dos resultados, isto é, obtemos uma probabilidade de aproximadamente {1:.2f}".format(resultados_pares, resultados_pares/10000))
